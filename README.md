@@ -1,15 +1,8 @@
-# violet
+# Violet - a 3D printer interface
 
-A new Flutter application.
+A simple app that allow you to manage your 3D printer. Now you can select and start a print, see the status of the current print and watch it if you have added a camera, upload a new file to print, etc...
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
